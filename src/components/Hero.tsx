@@ -10,7 +10,7 @@ export const Hero = () => {
             Unify Your Cloud Infrastructure
           </h1>
           <p className="mt-6 text-lg leading-8 text-gray-300">
-            WeaveQ seamlessly integrates multi-cloud services and AI applications,
+            WaveQ seamlessly integrates multi-cloud services and AI applications,
             helping you build, deploy, and scale with confidence.
           </p>
           <div className="mt-10 flex items-center justify-center gap-x-6">

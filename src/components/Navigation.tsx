@@ -14,7 +14,7 @@ export const Navigation = () => {
       <div className="container mx-auto px-4 py-4 flex items-center justify-between">
         <div className="flex items-center gap-x-8">
           <a href="/" className="text-2xl font-bold bg-gradient-to-r from-weaveq-purple to-weaveq-blue bg-clip-text text-transparent">
-            WeaveQ
+            WaveQ
           </a>
           <NavigationMenu>
             <NavigationMenuList>
